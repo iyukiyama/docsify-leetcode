@@ -1,6 +1,3 @@
-
-<!-- _coverpage.md -->
-
 ![logo](_media/favicon.svg)
 
 # yukiyama's leetcode
@@ -19,4 +16,4 @@
 
 [GitHub](https://github.com/iyukiyama/docsify-leetcode)
 [My blog](https://iyukiyama.github.io/)
-[Get Started](/1-50/)
+[Get Started](/README.md)
